@@ -1,0 +1,21 @@
+.header {
+    background: rgba(0, 0, 0, 0.9);
+}
+
+.header__main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header__burger img {
+    width: 36px;
+    height: 32px;
+}
+
+.header__logo {
+    margin: 5px 0;
+}
+
+.header__phone {
+}
